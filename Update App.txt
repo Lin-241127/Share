@@ -1,5 +1,5 @@
 version:3.1.1299₊
-Download:https://lin-241127.github.io/Share/Photo/01.png₊
+Download:https://lin-241127.github.io/Share/UpdateApp/com.Sharedphotoalbum.lin.apk₊
 更新日志:
 --主要更新
 1.新增查看图像功能，点击对应图像即可预览，还可以进行保存。
